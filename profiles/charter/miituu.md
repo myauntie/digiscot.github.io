@@ -9,4 +9,4 @@ image: /images/charter/miituu.jpg
 permalink: /charter/miituu/
 ---
 
-Use this space to tell people why your organisation signed the Digital Participation Charter and which projects you are supporting.
+The ability to communicate the impact charities make on the causes they serve is invaluable. Whether it is understanding the needs of applicants, experiencing peoples’ stories, gathering evidence of your outcomes or sharing results of your work with funders, we believe everyone has a right to make their voices heard and have the ability to share it online, offline and across multiple platforms, quickly, easily and without needing to have any prior training or technical knowledge.
